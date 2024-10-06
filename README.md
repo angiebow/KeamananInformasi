@@ -1,7 +1,7 @@
-# KeamananInformasi
+# Keamanan Informasi
 
-<br>
+**Name**: Pelangi Masita Wati  
 
-Name: Pelangi Masita Wati
-NRP: 5025221051
-Kelas: Keamanan Informasi A
+**NRP**: 5025221051  
+
+**Class**: Keamanan Informasi A
